@@ -11,8 +11,6 @@ Welcome to the repository for Custom LLM.ai! This project focuses on revolutioni
   - [About Us Section](#about-us-section)
   - [Why Us Section](#why-us-section)
 
-![Custom LLM.ai](assets/img/nav_hero.png)
-
 ## Header
 
 The header section defines the navigation bar at the top of the page. It includes a logo, a list of navigation links, and a mobile navigation toggle button. The navigation links allow users to navigate to different sections of the website. Additionally, the header provides a dropdown menu with multiple levels of navigation options.
